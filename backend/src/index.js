@@ -1,5 +1,5 @@
 const express = require ('express');
-const cora = require ('cors');
+const cors = require ('cors');
 const routes = require ('./routes');
 
 
